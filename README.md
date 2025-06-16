@@ -1,7 +1,6 @@
 # **bvm.org.ar**
 [Pagina Web](https://bvm.org.ar) para administración centralización de datos, orientado a un cuartel de bomberos.
 
-
 ## **Objetivo:**
 * Registrar datos de usuarios para su correcto uso en el tiempo, garantizando el almacenamiento y disponibilización de los datos.
 * Centralizar todo para los usuarios, desde formularios, capacitación, estadisticas entre otros.
@@ -170,4 +169,8 @@
 
 ![Servidor Dedicado](https://img.shields.io/badge/Servidor-Dedicado%20RAID-6C757D?style=for-the-badge&logo=serverfault&logoColor=white)
 
+## **Contacto:**
+### Puedes tener una versión personalizada para tu institución
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat\&logo=gmail\&logoColor=white): [matiasalbertooviedogonzalez@gmail.com](mailto:matiasalbertooviedogonzalez@gmail.com)
 
+![🇦🇷](https://img.shields.io/badge/-Ubicación-1E90FF?style=flat\&logo=google-maps\&logoColor=white): Merlo, San Luis, Argentina
