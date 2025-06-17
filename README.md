@@ -1,4 +1,4 @@
-# **bomberos.ar®**
+# **bomberos.ar** ®
 [Página web](https://bvm.org.ar) orientada a la administración y centralización de datos para un cuartel de bomberos.
 
 ## **Objetivo:**
