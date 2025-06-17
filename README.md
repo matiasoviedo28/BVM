@@ -1,8 +1,6 @@
 # **bomberos.ar®**
 [Página web](https://bvm.org.ar) orientada a la administración y centralización de datos de un cuartel de bomberos.
 
-**bvm.org.ar** es el dominio correspondiente a Bomberos Voluntarios Merlo, a quienes se les brinda este servicio de forma gratuita. El proyecto para otras instituciones se encuentra en [bomberos.ar](https://bomberos.ar)®.
-
 ## **Objetivo:**
 * Registrar los datos de los usuarios para su uso correcto a lo largo del tiempo, garantizando su almacenamiento y disponibilidad.
 * Centralizar las herramientas de los usuarios, desde formularios y capacitación hasta estadísticas, entre otros.
@@ -175,3 +173,7 @@
 ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat\&logo=gmail\&logoColor=white): [matiasalbertooviedogonzalez@gmail.com](mailto:matiasalbertooviedogonzalez@gmail.com)
 
 ![🇦🇷](https://img.shields.io/badge/-Ubicación-1E90FF?style=flat\&logo=google-maps\&logoColor=white): Merlo, San Luis, Argentina
+
+---
+
+**bvm.org.ar** es el dominio correspondiente a Bomberos Voluntarios Merlo, a quienes se les brinda este servicio de forma gratuita. El proyecto para otras instituciones se encuentra en [bomberos.ar](https://bomberos.ar)®.
