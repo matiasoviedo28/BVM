@@ -1,10 +1,11 @@
 # **bomberos.ar®**
-[Página web](https://bvm.org.ar) orientada a la administración y centralización de datos de un cuartel de bomberos.
+[Página web](https://bvm.org.ar) orientada a la administración y centralización de datos para un cuartel de bomberos.
 
 ## **Objetivo:**
 * Registrar los datos de los usuarios para su uso correcto a lo largo del tiempo, garantizando su almacenamiento y disponibilidad.
 * Centralizar las herramientas de los usuarios, desde formularios y capacitación hasta estadísticas, entre otros.
 * Modernizar a la institución, reemplazando el papel por una interfaz accesible desde cualquier lugar.
+* Brindar el servicio a toda institución que busque modernizarse.
 
 ## **Funcionalidades:**
 - [Seguridad con usuario y contraseña](#Login)
