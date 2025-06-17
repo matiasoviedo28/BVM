@@ -1,5 +1,7 @@
-# **bvm.org.ar**
+# **bomberos.ar®**
 [Página web](https://bvm.org.ar) orientada a la administración y centralización de datos de un cuartel de bomberos.
+
+**bvm.org.ar** es el dominio correspondiente a Bomberos Voluntarios Merlo, a quienes se les brinda este servicio de forma gratuita. El proyecto para otras instituciones se encuentra en [bomberos.ar](https://bomberos.ar)®.
 
 ## **Objetivo:**
 * Registrar los datos de los usuarios para su uso correcto a lo largo del tiempo, garantizando su almacenamiento y disponibilidad.
