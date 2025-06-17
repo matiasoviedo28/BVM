@@ -1,10 +1,10 @@
 # **bvm.org.ar**
-[Pagina Web](https://bvm.org.ar) para administración centralización de datos, orientado a un cuartel de bomberos.
+[Página web](https://bvm.org.ar) orientada a la administración y centralización de datos de un cuartel de bomberos.
 
 ## **Objetivo:**
-* Registrar datos de usuarios para su correcto uso en el tiempo, garantizando el almacenamiento y disponibilización de los datos.
-* Centralizar todo para los usuarios, desde formularios, capacitación, estadisticas entre otros.
-* Modernizar a los usuarios, remplazando el papel por una interfaz accesible desde cualquier lado.
+* Registrar los datos de los usuarios para su uso correcto a lo largo del tiempo, garantizando su almacenamiento y disponibilidad.
+* Centralizar las herramientas de los usuarios, desde formularios y capacitación hasta estadísticas, entre otros.
+* Modernizar a la institución, reemplazando el papel por una interfaz accesible desde cualquier lugar.
 
 ## **Funcionalidades:**
 - [Seguridad con usuario y contraseña](#Login)
@@ -14,8 +14,7 @@
 - [Personal](#Personal)
 - [Aula Virtual](#Aula-Virtual)
 - [Organigrama](#Organigrama)
-- [Contactos Emergencia](#Contactos-Emergencia)
-- [Aula Virtual](#Aula-Virtual)
+- [Contactos de Emergencia](#Contactos-Emergencia)
 - [Otros](#Otros)
 - [Lector NFC](#Lector-NFC)
 - [Stack Tecnológico](#Stack-Tecnológico)
@@ -23,30 +22,30 @@
 ---
 
 ## **Login**
-    Todo usuario tiene su usuario y contraseña. el cual es requisito para poder acceder a la pagina.
+    Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensable para acceder al sitio.
 
 ![imagen](images/web/login.png) 
 
-* Cuando se crea un perfil, se habilita el acceso en el login, creando una contraseña generica y el usuario la cambia cuando accede por primera vez.
+* Cuando se crea un perfil se habilita el acceso al login generando una contraseña genérica, que el usuario modifica al ingresar por primera vez.
 
 ---
 
 ## **Perfil**
 
-    Todo usuario al ingresar con sus credenciales, llega a su perfil, donde tiene lo siguiente: 
-* Estadisticas de intervenciones
-    - Extraidas directamente de ruba, con actualización semanal
-* Estadisticas de presentismo
+    Al iniciar sesión con sus credenciales, cada usuario accede a su perfil, donde encuentra lo siguiente:
+* Estadísticas de intervenciones
+    - Extraídas directamente de RUBA con actualización semanal
+* Estadísticas de presentismo
     - Datos propios del lector NFC
-* Datos Personales
-    - Datos actualizables por el usuario o personal de Legajos
+* Datos personales
+    - Información editable por el propio usuario o por el personal de Legajos
 * Certificados
-    - Cualquier certificado subido por el usuario
+    - Cualquier certificado que el usuario suba al sistema
 * Botones habilitados
-    - Según los permisos tendrá distintos accesos, como ver aulas de bomberos, cadetes, ingreso.
+    - Según los permisos, dispondrá de distintos accesos, como aulas para bomberos, cadetes o ingresantes
 
-#### Disponibilización de datos:
-    Cada usuario puede ver todos sus datos mostrados en esta sección, y también supervisores habilitados, como Jefes, Oficiales, Encargados o quién sea necesario.
+#### Visualización de datos:
+    Cada usuario puede consultar todos sus datos en esta sección. También pueden hacerlo los supervisores habilitados, como jefes, oficiales o encargados, según corresponda.
 
 ![imagen](images/web/perfil.png)
 ![imagen](images/web/certificados.png)
@@ -56,12 +55,12 @@
 ## **Formularios:**
 ![imagen](images/web/formularios_btn.png)
 
-    Aquí se concentran todos los formularios creados en el sistema. Están hechos en base a la necesitad de la institución.
+    Aquí se concentran todos los formularios disponibles en el sistema. Fueron desarrollados según las necesidades de la institución.
 
-    En caso de ser muchos formularios, hay filtros en forma de botones a la izquierda.
+    Si la cantidad de formularios es elevada, pueden filtrarse mediante botones ubicados a la izquierda.
 
 #### Ejemplo:
-**Formulario de Licencias:** Aquí el usuario se puede pedir licencias o vacaciones. Al enviarse, le llega una solicitud a los jefes para que dispongan de la misma.
+**Formulario de Licencias:** el usuario puede solicitar licencias o vacaciones. Al enviarlo, los jefes reciben una solicitud para su aprobación.
 
 ![imagen](images/web/formularios.png)
 
@@ -70,12 +69,12 @@
 ## **Herramientas:**
 ![imagen](images/web/herramientas_btn.png)
 
-    Hay distintas herramientas internas en la pagina, habilitadas según permisos de usuario
+    El sitio cuenta con diversas herramientas internas habilitadas según los permisos de cada usuario
 
 ![imagen](images/web/herramientas.png)
 
 #### Ejemplo:
-**Panel de Ropería:** Aquí el jefe, puede ver las solicitudes y gestionarlas. Además quedan registradas y puede filtrar por **pendientes** (tienen formatos iguales todas las gestiones de solicitudes)
+**Panel de Ropería:** permite al jefe visualizar y gestionar las solicitudes. Todas quedan registradas y pueden filtrarse por **pendientes** (todas las gestiones comparten el mismo formato)
 
 ![imagen](images/web/panel_roperia.png)
 
@@ -84,7 +83,7 @@
 ## **Personal:**
 ![imagen](images/web/personal_btn.png)
 
-    Desde esta función, los Supervisores pueden visualizar todos los perfiles, filtrando por tipos de usuarios, y su condición.
+    Desde esta función, los supervisores pueden visualizar todos los perfiles, filtrando por tipo de usuario y su condición.
 
 ![imagen](images/web/menu_perfiles.png)
 
@@ -93,9 +92,9 @@
 ## **Aula:**
 ![imagen](images/web/aula_btn.png)
 
-    Existe la función de aula virtual, separando contenido entre los distintos niveles, como Cadetes, Bomberos o Ingresantes.
+    El sistema cuenta con un aula virtual que separa el contenido según los distintos niveles, como Cadetes, Bomberos o Ingresantes.
 
-    Se puede subir PDF, videos y cualquier material util para visualizar directamente desde la pagina web.
+    Se pueden subir PDF, videos y cualquier material útil para visualizar directamente desde la página web.
 
 ![imagen](images/web/aula.png)
 
@@ -104,8 +103,8 @@
 ## **Organigrama:**
 ![imagen](images/web/organigrama_btn.png)
 
-    En base a los datos registrados en el formulario de "actualizar brigadas y departamentos" se crea un organigrama visual para ver la distribución interna de la institución, Facilitando una facil interpretación de la distribución del personal.
-* Grafico interactivo:
+    En base a los datos registrados en el formulario "actualizar brigadas y departamentos" se genera un organigrama visual para observar la distribución interna de la institución, facilitando una fácil interpretación del personal.
+* Gráfico interactivo:
 ![imagen](images/web/organigrama.png)
 
 ---
@@ -113,14 +112,14 @@
 ## **Contactos de emergencia:**
 ![imagen](images/web/contactos_btn.png)
 
-    Cada usuario actualiza sus contactos de emergencia por x situación. esto lo puede consultar cualquier usuario.
+    Cada usuario actualiza sus contactos de emergencia para cualquier situación. Esta información puede ser consultada por cualquier usuario.
 
 ![imagen](images/web/contactos_emergencia.png)
 
 ---
 
 ## **Otros:**
-    Hay más funciones para visualizar datos personales o redirigir a sitios importantes.
+    Existen otras funciones para visualizar datos personales o redirigir a sitios de interés.
 
 ![imagen](images/web/otros_btn.png)
 
@@ -128,16 +127,16 @@
 
 ## **Lector NFC:**
 
-    Recientemente hemos remplazado el libro de ingreso y salida del personal por un lector digital desarrollado especificamente para la página. Esto ha solucionado aprox. 30hs mensuales de carga manual a RUBA.
+    Recientemente hemos reemplazado el libro de ingreso y salida del personal por un lector digital desarrollado específicamente para la página. Esto ha ahorrado aproximadamente 30 horas mensuales de carga manual en RUBA.
 
-    Se instaló en el ingreso a la institución un lector donde se ficha Ingreso y Salida.
+    Se instaló en el ingreso a la institución un lector donde se registra el ingreso y la salida.
 
 ![imagen](images/web/lector_nfc.jpg)
 
-* Cada usuario tiene su tarjeta, llavero o celular con nfc. y lo registra rapidamente
-* Los registros pueden ser auditados por quién esté autorizado, y posteriormente se cargan automaticamente a ruba, ahorrando muchas horas de carga manual.
-* Visualización de guardia en tiempo real con las siguientes ventajas:
-    * Visualización rapida de nombres con foto de perfil
+* Cada usuario dispone de una tarjeta, llavero o celular con NFC y registra su presencia rápidamente.
+* Los registros pueden ser auditados por quienes estén autorizados y posteriormente se cargan automáticamente a RUBA, ahorrando muchas horas de carga manual.
+* Visualización de la guardia en tiempo real con las siguientes ventajas:
+    * Visualización rápida de nombres con foto de perfil
     * Contador de choferes tipo liviana y pesada
     * Contador de las brigadas presentes.
 
@@ -170,7 +169,7 @@
 ![Servidor Dedicado](https://img.shields.io/badge/Servidor-Dedicado%20RAID-6C757D?style=for-the-badge&logo=serverfault&logoColor=white)
 
 ## **Contacto:**
-### Puedes tener una versión personalizada para tu institución
+### Consultá por una versión personalizada para tu institución
 ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat\&logo=gmail\&logoColor=white): [matiasalbertooviedogonzalez@gmail.com](mailto:matiasalbertooviedogonzalez@gmail.com)
 
 ![🇦🇷](https://img.shields.io/badge/-Ubicación-1E90FF?style=flat\&logo=google-maps\&logoColor=white): Merlo, San Luis, Argentina
