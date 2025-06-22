@@ -23,7 +23,7 @@
 ---
 
 ## **Login**
-    Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensable para acceder al sitio.
+Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensable para acceder al sitio.
 
 ![imagen](images/web/login.png) 
 
