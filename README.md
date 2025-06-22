@@ -33,7 +33,8 @@ Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensa
 
 ## **Perfil**
 
-    Al iniciar sesión con sus credenciales, cada usuario accede a su perfil, donde encuentra lo siguiente:
+Al iniciar sesión con sus credenciales, cada usuario accede a su perfil, donde encuentra lo siguiente:
+
 * Estadísticas de intervenciones
     - Extraídas directamente de RUBA con actualización semanal
 * Estadísticas de presentismo
@@ -46,7 +47,7 @@ Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensa
     - Según los permisos, dispondrá de distintos accesos, como aulas para bomberos, cadetes o ingresantes
 
 #### Visualización de datos:
-    Cada usuario puede consultar todos sus datos en esta sección. También pueden hacerlo los supervisores habilitados, como jefes, oficiales o encargados, según corresponda.
+Cada usuario puede consultar todos sus datos en esta sección. También pueden hacerlo los supervisores habilitados, como jefes, oficiales o encargados, según corresponda.
 
 ![imagen](images/web/perfil.png)
 ![imagen](images/web/certificados.png)
@@ -56,9 +57,9 @@ Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensa
 ## **Formularios:**
 ![imagen](images/web/formularios_btn.png)
 
-    Aquí se concentran todos los formularios disponibles en el sistema. Fueron desarrollados según las necesidades de la institución.
+Aquí se concentran todos los formularios disponibles en el sistema. Fueron desarrollados según las necesidades de la institución.
 
-    Si la cantidad de formularios es elevada, pueden filtrarse mediante botones ubicados a la izquierda.
+Si la cantidad de formularios es elevada, pueden filtrarse mediante botones ubicados a la izquierda.
 
 #### Ejemplo:
 **Formulario de Licencias:** el usuario puede solicitar licencias o vacaciones. Al enviarlo, los jefes reciben una solicitud para su aprobación.
@@ -70,7 +71,7 @@ Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensa
 ## **Herramientas:**
 ![imagen](images/web/herramientas_btn.png)
 
-    El sitio cuenta con diversas herramientas internas habilitadas según los permisos de cada usuario
+El sitio cuenta con diversas herramientas internas habilitadas según los permisos de cada usuario
 
 ![imagen](images/web/herramientas.png)
 
@@ -84,7 +85,7 @@ Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensa
 ## **Personal:**
 ![imagen](images/web/personal_btn.png)
 
-    Desde esta función, los supervisores pueden visualizar todos los perfiles, filtrando por tipo de usuario y su condición.
+Desde esta función, los supervisores pueden visualizar todos los perfiles, filtrando por tipo de usuario y su condición.
 
 ![imagen](images/web/menu_perfiles.png)
 
@@ -93,9 +94,9 @@ Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensa
 ## **Aula:**
 ![imagen](images/web/aula_btn.png)
 
-    El sistema cuenta con un aula virtual que separa el contenido según los distintos niveles, como Cadetes, Bomberos o Ingresantes.
+El sistema cuenta con un aula virtual que separa el contenido según los distintos niveles, como Cadetes, Bomberos o Ingresantes.
 
-    Se pueden subir PDF, videos y cualquier material útil para visualizar directamente desde la página web.
+Se pueden subir PDF, videos y cualquier material útil para visualizar directamente desde la página web.
 
 ![imagen](images/web/aula.png)
 
@@ -104,7 +105,7 @@ Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensa
 ## **Organigrama:**
 ![imagen](images/web/organigrama_btn.png)
 
-    En base a los datos registrados en el formulario "actualizar brigadas y departamentos" se genera un organigrama visual para observar la distribución interna de la institución, facilitando una fácil interpretación del personal.
+En base a los datos registrados en el formulario "actualizar brigadas y departamentos" se genera un organigrama visual para observar la distribución interna de la institución, facilitando una fácil interpretación del personal.
 * Gráfico interactivo:
 ![imagen](images/web/organigrama.png)
 
@@ -113,14 +114,14 @@ Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensa
 ## **Contactos de emergencia:**
 ![imagen](images/web/contactos_btn.png)
 
-    Cada usuario actualiza sus contactos de emergencia para cualquier situación. Esta información puede ser consultada por cualquier usuario.
+Cada usuario actualiza sus contactos de emergencia para cualquier situación. Esta información puede ser consultada por cualquier usuario.
 
 ![imagen](images/web/contactos_emergencia.png)
 
 ---
 
 ## **Otros:**
-    Existen otras funciones para visualizar datos personales o redirigir a sitios de interés.
+Existen otras funciones para visualizar datos personales o redirigir a sitios de interés.
 
 ![imagen](images/web/otros_btn.png)
 
@@ -128,9 +129,9 @@ Cada persona cuenta con un nombre de usuario y contraseña, requisito indispensa
 
 ## **Lector NFC:**
 
-    Recientemente hemos reemplazado el libro de ingreso y salida del personal por un lector digital desarrollado específicamente para la página. Esto ha ahorrado aproximadamente 30 horas mensuales de carga manual en RUBA.
+Recientemente hemos reemplazado el libro de ingreso y salida del personal por un lector digital desarrollado específicamente para la página. Esto ha ahorrado aproximadamente 30 horas mensuales de carga manual en RUBA.
 
-    Se instaló en el ingreso a la institución un lector donde se registra el ingreso y la salida.
+Se instaló en el ingreso a la institución un lector donde se registra el ingreso y la salida.
 
 ![imagen](images/web/lector_nfc.jpg)
 
